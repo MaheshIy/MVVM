@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MVVM</string>
+
+    <!--Label-->
+    <string name="label_profile_image">Profile Image</string>
+    <string name="label_name">Name</string>
+    <string name="label_age">Age</string>
+    <string name="city">City</string>
+
+    <!--Actions-->
+    <string name="action_accept">Accept</string>
+    <string name="action_decline">Decline</string>
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancel</string>
+
+    <!--Message-->
+    <string name="message_member_have_accepted">Member have Accepted</string>
+    <string name="message_member_have_declined">Member have Declined</string>
+    <string name="message_something_went_wrong">Something went wrong from the server</string>
+    <string name="message_internet_connection">Please check with your internet connection</string>
+    <string name="message_error">Error</string>
+
+</resources>
